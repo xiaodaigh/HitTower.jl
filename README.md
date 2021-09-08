@@ -1,5 +1,7 @@
 # HitTower.jl
-Data processing domain specific language (DSL) that compiles to Julia with a parallel-first paradigm.
+Data processing domain specific language (DSL) that acts like an intermediate language.
+
+E.g. SAS Language -> HitTower -> PySpark
 
 Unlikely to be worked on for a couple of years. But hey, that's how {disk.frame} started too and it's now a Top 100 R package by Github star count.
 
